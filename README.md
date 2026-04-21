@@ -54,8 +54,9 @@ plt.show()
 ```
 
 ## Output:
-<img width="854" height="578" alt="Screenshot 2026-04-21 093215" src="https://github.com/user-attachments/assets/8c8abe4c-45fe-4e24-9362-9159982b60c5" />
 <img width="652" height="757" alt="Screenshot 2026-04-21 093158" src="https://github.com/user-attachments/assets/cceb3d44-5c0d-440c-bde2-caffbb0b1d51" />
+<img width="854" height="578" alt="Screenshot 2026-04-21 093215" src="https://github.com/user-attachments/assets/8c8abe4c-45fe-4e24-9362-9159982b60c5" />
+
 
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
